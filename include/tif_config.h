@@ -26,7 +26,7 @@
 /* #undef DEFER_STRILE_LOAD */
 
 /* Define to 1 if you have the <assert.h> header file. */
-#define HAVE_ASSERT_H 1
+//#define HAVE_ASSERT_H 1
 
 /* Define to 1 if you have the declaration of `optarg', and to 0 if you don't.
    */
